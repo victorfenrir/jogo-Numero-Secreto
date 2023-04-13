@@ -12,4 +12,5 @@ Se o número que está tentando tiver ao menos duas casa decimais, é possível 
 ao "quebrar" esse número em digitos, por ex: para que o jogo entenda 69 (sessenta e nove), às vezes será
 necessário dizer "Seis Nove" ou "Meia Nove".
 
+Se for desistir e quiser que seja trocado o número aleatório, diga "Game Over", e clique no botão "Jogar novamente".
 Em caso de acerto, poderá reiniciar o jogo clicando no botão "Jogar novamente".
